@@ -7,8 +7,7 @@ and writes a final well list and map.
 Scope: practical site screening only. This is not a hydrogeological or groundwater-quality
 suitability assessment.
 
-Previous work: [Faisalabad groundwater recharge suitability](https://github.com/rameelarustam47/Faisalabad-groundwater-recharge-suitability)
-
+Previous work:[Faisalabad groundwater recharge suitability](https://github.com/rameelarustam47/Faisalabad-groundwater-recharge-suitability) 
 ## Result
 
 ![Wells without a visible problem](images/fine_wells_before_after.png)
