@@ -1,7 +1,4 @@
 # Practical audit of candidate recharge wells: Faisalabad case study
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rameelarustam47/faisalabad-recharge-well-audit/blob/main/notebooks/faisalabad_well_audit.ipynb)
-
 100 candidate recharge-well sites in Faisalabad District were selected from a GIS index
 (terrain, soil, runoff, Sentinel-1 flood data). This project checks each site for practical
 problems (canals, drains, roads, buildings), moves problem wells to nearby clear locations,
